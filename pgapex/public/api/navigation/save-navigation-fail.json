@@ -1,6 +1,0 @@
-{
-  "meta": {"status": "Forbidden", "code": "403"},
-  "errors": [
-    {"detail": "navigation.nameAlreadyExists", "source": {"pointer": "/data/attributes/name"}}
-  ]
-}

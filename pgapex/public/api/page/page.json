@@ -1,8 +1,0 @@
-{"meta":{"status":"OK","code":"200"},"data":{
-  "pageId":123,
-  "title":"Page title",
-  "alias":"page-alias",
-  "template":3,
-  "isHomepage":true,
-  "isAuthenticationRequired":false
-}}

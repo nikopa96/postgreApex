@@ -1,8 +1,0 @@
-{"meta":{"status":"OK","code":"200"},"data":{
-  "regionId":123,
-  "name":"Region name",
-  "sequence":2,
-  "regionTemplate":3,
-  "isVisible":true,
-  "content":"<strong>Hello!</strong>"
-}}
